@@ -3,6 +3,8 @@ Name: Richard Mark Russell
 
 Section: OPS445NAA
 
+Looking forward to the semester!
+
 <!--
 **rrussell19/rrussell19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
